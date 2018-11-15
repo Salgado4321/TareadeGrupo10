@@ -51,4 +51,5 @@ public abstract class Persona {
     }
     
     abstract void informacionPersonal();
+    
 }
