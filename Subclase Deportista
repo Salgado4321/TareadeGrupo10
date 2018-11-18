@@ -1,0 +1,57 @@
+Clase abstracta  pública Persona { 
+    // Propiedades
+     Cuerda privada nombre;
+     int int privado ;
+     identidad de cuerdas privada ;
+     Cuerda privada sexo;
+    
+    // Constructor de la clase
+     Persona pública () {
+        
+    }
+    
+    // Establecer y obtener.
+    public  void  setNombre ( String  nombre ) {
+        esta . nombre = nombre;
+    }
+     Cadena  pública getNombre () {
+        volver nombre;
+
+public clase abstracta extends Persona
+{
+    Cuerda privada nombredeportista;
+     int int privado ;
+     deporte de cuerdas privada ;
+     Cuerda privada sexo;
+    {
+        public  void  setNombre ( String  nombre ) {
+        esta . nombredeportista = nombredeportista;
+    }
+     Cadena  pública getNombre () {
+        volver nombredeportista;
+    }
+    
+    El  vacío  público setEdad ( int  edad ) {
+        esta . edad = edad;
+    }
+    public  int  getEdad () {
+        volver edad;
+    }
+    
+     Setdeporte de vacío  público ( String deporte ) { 
+        esta . deporte = deporte;
+    }
+     Cadena  pública getIentidad () {
+        volver identidad;
+    }
+    
+    public  void  setSexo ( String  sexo ) {
+        esta . sexo = sexo;
+    }
+     Cadena  pública getSexo () {
+        volver sexo
+    }
+    
+     informacion vacia  abstracta deportista();
+    
+}
